@@ -4,7 +4,7 @@ email: himynameschance@gmail.com
 url: https://chancemess.github.io
 description: "Hi, my name is Chance and I'm available for hire. I do python programming specializing in AI capabilities."
 keywords: "python, programmer, developer, ai"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Python Programmer - Web Developer - AI Trainer"
 meta_author: Messick Chance
 
 # Google webmaster tools
@@ -44,7 +44,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: San Dieog, CA
+  - line: San Diego, CA
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
